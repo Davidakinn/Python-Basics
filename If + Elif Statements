@@ -8,4 +8,4 @@ elif KevinAkin_Age == Age_at_Kindergarten:
 else:
     print("Kevin Should be in another class")
 if KevinAkin_Age > 18: 
-    print("Kevin Akin is too old for school")
+    print("Kevin Akin is too old for our services")
