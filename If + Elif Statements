@@ -1,8 +1,11 @@
-Thomas_Age = 10
-Age_Kindergarten = 5
+KevinAkin_Age = 19
+Age_at_Kindergarten = 5
 
-if Thomas_Age < Age_Kindergarten:
- print("Thomas should be in preschool")
-
-else: 
-    print("Thomas should be in another class")
+if KevinAkin_Age < Age_at_Kindergarten: 
+    print("Kevin should be in pre-school")
+elif KevinAkin_Age == Age_at_Kindergarten:
+    print("Enjoy Kindergarten!")
+else:
+    print("Kevin Should be in another class")
+if KevinAkin_Age > 18: 
+    print("Kevin Akin is too old for school")
