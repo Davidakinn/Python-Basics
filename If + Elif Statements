@@ -1,0 +1,8 @@
+Thomas_Age = 10
+Age_Kindergarten = 5
+
+if Thomas_Age < Age_Kindergarten:
+ print("Thomas should be in preschool")
+
+else: 
+    print("Thomas should be in another class")
