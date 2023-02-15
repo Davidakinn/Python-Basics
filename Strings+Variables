@@ -1,0 +1,14 @@
+print("Hello World")
+
+##This tells me the proper answer##
+print(5/2) 
+
+##This shows me the answer without the remainder (the floor)
+print(5//2) 
+
+##Say you just want to know what the remainder is you type
+print(5%2)
+##This is a modulus 
+
+print(100000)
+print("What's up?") 
