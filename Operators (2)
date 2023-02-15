@@ -1,0 +1,7 @@
+red_bucket = input("What doa you want to put in the bucket?")
+print(red_bucket) 
+
+##This is saying is 5 equal to 4 we are running a test and checking for a quality
+#In order to do this we must use 2 equal signs
+
+print(5!=4)
